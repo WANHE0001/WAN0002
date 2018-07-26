@@ -1,3 +1,1 @@
-window.location.href="https://sspai.com"; 
-
-
+alert(1)
