@@ -1,1 +1,1 @@
-window.location.href="http://98786.com";
+
